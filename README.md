@@ -22,5 +22,5 @@ A minimal, offline, daily mantra/inspiration app for Android.
 Currently in development.
 
 
-<3 This app is being made as a personal project for me
-Inspired by a silly wish i had, mostly vibe coded.
+<3 This app is being made as a personal project for me,
+inspired by a silly wish i had, mostly vibe coded.
